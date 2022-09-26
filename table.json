@@ -1,0 +1,1205 @@
+[
+    {
+        "league": "wsีเมียs์ลีn",
+        "data": [
+            {
+                "time": "02:00",
+                "live_time": "",
+                "main_team": "",
+                "team1": "[9]aีดn์ ยูไuเต็n",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "น็oตติ้งเเฮม ฟoเsสต์[19]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "ลาลีกา สเปน (Spanish La Liga : Liga BBVA)",
+        "data": [
+            {
+                "time": "02:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[14]อัลเมเรีย",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "โอซาซูน่า[7]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงวางโอซาซูน่า มาวิน"
+            }
+        ]
+    },
+    {
+        "league": "กัลโช่ เซเรียอา อิตาลี (ITALY SERIE A)",
+        "data": [
+            {
+                "time": "01:45",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[16]เอ็มโปลี",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "โsม่า[8]",
+                "odds": "0.5-1",
+                "tded": "ฟันธงต่อโรม่า มาซ่านอกบ้าน"
+            }
+        ]
+    },
+    {
+        "league": "ลาลีกา สเปน 2 (Spanish Segunda Division)",
+        "data": [
+            {
+                "time": "02:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[11]เออิบาร์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "กรานาด้า[4]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงรองกรานาด้า บอกว่าเอาอยู่"
+            }
+        ]
+    },
+    {
+        "league": "ลีกเดอซ์ ฝรั่งเศส (France Ligue 2)",
+        "data": [
+            {
+                "time": "01:45",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[7]เม็nซ์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "แก็งก็อง[9]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองแก็งก็อง มาส่องเสมอ"
+            }
+        ]
+    },
+    {
+        "league": "สวีเดน ออลสเวนส์คาน (Sweden Allsvenskan)",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[7]คัลมาร์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฮัคเค่น[2]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองคัลม่าร์ ซ่าในบ้าน"
+            },
+            {
+                "time": "00:10",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[6]IFK โกเตนเบิร์ก",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เฮลซิงบอร์ก[15]",
+                "odds": "1",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "เดนมาร์ก ซุปเปอร์ลีก (Denmark Super League)",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[4]วีบรอก",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เอซี ฮอร์เซ่นส์[7]",
+                "odds": "0.5-1",
+                "tded": "ฟันธงต่อวีบรอก หลอกยิง"
+            }
+        ]
+    },
+    {
+        "league": "โรมาเนีย ดิวิชั่น1 (Romania Division1)",
+        "data": [
+            {
+                "time": "22:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[14]ดาเชีย มิโอวินี่",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ยูนิเวอร์ซิตาเตีย คลูจ์[15]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงวางดาเชีย มิโอวินี่ มีชัย"
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[13]สเตอัว บูคาเรสต์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "โวลุนตารี่[12]",
+                "odds": "0.5-1",
+                "tded": "ฟันธงไม่น่าถึงสอง ขอมองโวลุนทารี่"
+            }
+        ]
+    },
+    {
+        "league": "โปรตุเกส ลีกา ซาเกรส (Portugal Liga Sagres)",
+        "data": [
+            {
+                "time": "02:15",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[13]วิเซล่า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เอสโตริล[11]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงรองเอสโตริล ขอซิวซักแต้ม"
+            }
+        ]
+    },
+    {
+        "league": "กรีซ ซุปเปอร์ลีก (Greece Super League)",
+        "data": [
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[6]PAOK ซาโลนิก้า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ลาเมีย[12]",
+                "odds": "1.5-2",
+                "tded": "ฟันธงรองลาเมีย เชียร์ได้"
+            }
+        ]
+    },
+    {
+        "league": "ตุรกี ซุปเปอร์ลีก (Turkey Super League)",
+        "data": [
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[2]เบซิคตัส",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "อิสตันบูล บูยูคเซ็ค[6]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองอิสตันบูล ลุ้นมันส์"
+            },
+            {
+                "time": "01:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[7]อดาน่า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "แทร็บซอนสปอร์[8]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองแทร็บซอนสปอร์ รอลูกสวน"
+            }
+        ]
+    },
+    {
+        "league": "ยูเครน พรีเมียร์ลีก (Ukrainian Premier League)",
+        "data": [
+            {
+                "time": "17:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[16]วอร์สคลา",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "โอเล็คซานเดรีย[7]",
+                "odds": "0-0.5",
+                "tded": ""
+            },
+            {
+                "time": "19:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[11]อินฮิวเลท์ส",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "FC มินาจ[13]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "นอร์เวย์ ดิวิชั่น 2 (Norway Adeccoligaen)",
+        "data": [
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[10]เอ็มจอนดาเลน",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "สคีด ออสโล[14]",
+                "odds": "1",
+                "tded": "ฟันธงรองสคีด ออสโล ยิงโชว์สาว"
+            },
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[3]สตาเบ็ค",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "รัวฟอส[7]",
+                "odds": "1",
+                "tded": "ฟันธงรองรัวฟอส มาหยอดหนึ่งตูม"
+            },
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[1]เอสเค บรานน์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "Grorud IL[16]",
+                "odds": "3-3.5",
+                "tded": ""
+            },
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[8]คองสวิงเกอร์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "KFUM ออสโล[2]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงต่อออสโล โชว์ชัย"
+            }
+        ]
+    },
+    {
+        "league": "มาเลเซีย ซุปเปอร์ลีก",
+        "data": [
+            {
+                "time": "20:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[3]เนเกอรี่ ซัมบิลัน",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เคดะห์[6]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "สวีเดน ซูเปอร์เร็ตเท่น (Sweden Superettan)",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[7]เทรลเลบอร์ก",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ออร์ไกร์ท[13]",
+                "odds": "0.5",
+                "tded": "ฟันธงรองออร์ไกรท์ จัดได้"
+            }
+        ]
+    },
+    {
+        "league": "โปแลนด์ ดิวิชั่น1 (Poland Ekstraklasa)",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[16]จาเกียลโลเนีย",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "สตอล เมียเลช[7]",
+                "odds": "0.5",
+                "tded": "ฟันธงรองสตอล น่าต้อนได้"
+            }
+        ]
+    },
+    {
+        "league": "Serbian Superliga",
+        "data": [
+            {
+                "time": "21:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[10]FK จาวอร์อิวานจิก้า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "แรดนิค ซูดูลิซาร์[16]",
+                "odds": "0.5",
+                "tded": ""
+            },
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[7]FK Vozdovac",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ราสนิกีร์ ไนร์[14]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "เยอรมันลีกา 3 (Germany 3rd League)",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[17]เอสซี เวิร์ล",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "SV เม็พเพ่น[13]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองเม็พเพ่น เล่นดีแน่"
+            }
+        ]
+    },
+    {
+        "league": "ฮอลแลนด์ ดิวิชั่น 2 (Holland Jupiler League)",
+        "data": [
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[14]อัลเมเร่ ซิตี้",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "FC ไอนด์โฮเฟ่น[2]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงวางเอฟซี ไอนด์โฮเฟ่น เล่นดีแน่"
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[9]อาแจกซ์(Am)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เอ็นเอซี เบรด้า[7]",
+                "odds": "0.5",
+                "tded": "ฟันธงรองเอ็นเอซี เบรด้า น่าลุ้น"
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[4]AZ อัลค์ม่าร์(Am)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ซโวลเล่[1]",
+                "odds": "1",
+                "tded": "ฟันธงรองอัลค์ม่าร์ ซ่าในบ้าน"
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[16]พีเอสวี(Am)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดน บอสช์[20]",
+                "odds": "0.5",
+                "tded": "ฟันธงต่อพีเอสวี ดูดีกว่า"
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[18]อูเทร็คท์(Am)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดน ฮาก[17]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองอูเทร็คท์ เผด็จศึก"
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[6]โรด้า เจซี",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดอ กราฟสคัป[15]",
+                "odds": "0.5",
+                "tded": "ฟันธงรองเดอ กราฟสคัป จัดไป"
+            }
+        ]
+    },
+    {
+        "league": "โปรตุเกส ดิวิชั่น2 (Portugal Liga de Honora)",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[8]อมาดอร่า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "อคาเดมีโค วิสุ[18]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองอคาเดมีโค วิสุ บู้ไหว"
+            }
+        ]
+    },
+    {
+        "league": "พรีเมียร์ลีก อิสราเอล",
+        "data": [
+            {
+                "time": "00:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[12]เบต้าเยรูซาเล็ม",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฮาโปเอล เยรูซาเลม[6]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงวางเบต้าเยรูซาเล็ม เต็มถัง"
+            }
+        ]
+    },
+    {
+        "league": "ไซปรัส ดิวิชั่น 1",
+        "data": [
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[13]โอลิมเปียกอส นิโคเซีย",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "AEL ลิมาสซอล[12]",
+                "odds": "เสมอ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Turkey 2 Ligi A",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[17]อัลตินอดู",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เพนดิคสปอร์[8]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงวางเพนดิคสปอร์ ขอชัย"
+            }
+        ]
+    },
+    {
+        "league": "อิตาลี C1 (Italy Lega Pro)",
+        "data": [
+            {
+                "time": "01:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[C-19]พิเซอร์โน่",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฟอกเจีย[C-17]",
+                "odds": "เสมอ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "เปรู พรีเมียร์ ดิวิชั่น",
+        "data": [
+            {
+                "time": "03:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-12]สปอร์ต ฮวนคาโย่",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดป ซานมาร์ติน[(a)-19]",
+                "odds": "1.5-2",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "อาร์เจนติน่า wsีเมียs์ลีn ดิวิชั่น (Argentina Primera Division)",
+        "data": [
+            {
+                "time": "03:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[18]ซาร์เมียนโต้ จูนิน",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "อินดิเพนเดนเต้[23]",
+                "odds": "เสมอ",
+                "tded": "ฟันธงวางซาร์เมียนโต้ โชว์ชัย"
+            }
+        ]
+    },
+    {
+        "league": "อาร์เจนติน่า พรีเมียร์ B เนชั่นแนล",
+        "data": [
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[36]ซาคาชิสปาส",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฟลานเดรีย[33]",
+                "odds": "เสมอ",
+                "tded": ""
+            },
+            {
+                "time": "04:10",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[23]เฟอร์โรคาร์รีล",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดปอร์ตีโบ โมรอน[19]",
+                "odds": "0-0.5",
+                "tded": ""
+            },
+            {
+                "time": "05:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[34]นูเอว่า ชิคาโก้",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เอลมาโกล[12]",
+                "odds": "0-0.5",
+                "tded": ""
+            },
+            {
+                "time": "06:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[11]ลิวาดาเวีย",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดปอร์ติโวมาดรีน[15]",
+                "odds": "0-0.5",
+                "tded": ""
+            },
+            {
+                "time": "06:35",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[17]คิลเมส",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ริโอ คูร์โต้[9]",
+                "odds": "0.5",
+                "tded": ""
+            },
+            {
+                "time": "07:10",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[4]ซานมาร์ติน ทูคูมัน",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เบลกราโน่[1]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "เม็กซิโก หญิง(Mexico Liga MX Femenil)",
+        "data": [
+            {
+                "time": "03:45",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-4]คลับ อเมริกา(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฮัวเรซ เอฟซี(W)[(a)-13]",
+                "odds": "2-2.5",
+                "tded": ""
+            },
+            {
+                "time": "05:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[(a)-17]เนกาซ่า(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ปาชูก้า(W)[(a)-11]",
+                "odds": "1.5",
+                "tded": ""
+            },
+            {
+                "time": "05:05",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-10]คลับ ลีออน(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เกเรตาโร(W)[(a)-16]",
+                "odds": "เสมอ",
+                "tded": ""
+            },
+            {
+                "time": "07:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-14]ซานโตส ลากูน่า(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ตีฮัวนา(W)[(a)-6]",
+                "odds": "เสมอ",
+                "tded": ""
+            },
+            {
+                "time": "09:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-3]มอนเทอร์เรย์(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "อัตลาส(W)[(a)-9]",
+                "odds": "2",
+                "tded": ""
+            },
+            {
+                "time": "09:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[(a)-18]Mazatlan(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "โตลูก้า(W)[(a)-7]",
+                "odds": "0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "บราซิล ซีรี่บี (Brazil Serie B)",
+        "data": [
+            {
+                "time": "06:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[7]เรซิเฟ่",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "บาเฮีย[2]",
+                "odds": "0-0.5",
+                "tded": "ฟันธงรองบาเฮีย เชียร์สบาย"
+            }
+        ]
+    },
+    {
+        "league": "จีน ดิวิชั่น 1",
+        "data": [
+            {
+                "time": "14:00",
+                "live_time": "HT",
+                "main_team": "team1",
+                "team1": "[A-4]ชิงเต่าจงชวงเหิงไท่",
+                "half_time": "0 - 1",
+                "full_time": "? - ?",
+                "team2": "เซี่ยงไฮ้ เจียดิ้งซิตี้[C-5]",
+                "odds": "0.5-1",
+                "tded": ""
+            },
+            {
+                "time": "14:30",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[C-4]ปักกิ่ง เป่ย์ค่อง",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ชิงเต่า จงเนิ่ง[B-2]",
+                "odds": "1.5-2",
+                "tded": ""
+            },
+            {
+                "time": "18:30",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[C-2]เฮยหลงเจียง ลาวา",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "คุนชาน เอฟซี[B-1]",
+                "odds": "1.5-2",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "บัลแกเรีย wsีเมียs์ลีn (Bulgaria Premier League)",
+        "data": [
+            {
+                "time": "21:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[9]อาร์ดา",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "พีริน[15]",
+                "odds": "0.5",
+                "tded": ""
+            },
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[11]เซ็บเทมฟริ โซเฟีย",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "โลโคโมทีฟ พลอฟดิฟ[5]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Israel Leumit League",
+        "data": [
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[9]คาบิลิโอ จัฟฟา",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฮาโปเอล อัล-ฟาห์ม[12]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[10]บีไน เยฮูด้า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เพตาห์ ทิกวา[3]",
+                "odds": "เสมอ",
+                "tded": ""
+            },
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[1]มัคคาบี้ ทิคว่า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ฮาโปเอล ริซอน[11]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "ฝรั่งเศส ลีก3",
+        "data": [
+            {
+                "time": "02:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[5]เรด สตาร์ 93",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "Paris Atletico[16]",
+                "odds": "0.5-1",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Latvian Higher League",
+        "data": [
+            {
+                "time": "20:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[3]ริกาสฟุทโบลา",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "สปาร์ตักส์ เจอร์มาลา[9]",
+                "odds": "2",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "โปแลนด์ ลิกา 1",
+        "data": [
+            {
+                "time": "23:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[13]โครบริ โกลกูฟว์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เรโซเวีย[18]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "รัสเซีย ดิวิชั่น 1",
+        "data": [
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[6]บัลติก้า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "มาฮัชกาลา[9]",
+                "odds": "0.5-1",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "caf แชมเปี้ยนส์ ลีก",
+        "data": [
+            {
+                "time": "00:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "Kadiogo",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "อาชานติ โกโตโก้[D1-1]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Colombia Copa Mustang A",
+        "data": [
+            {
+                "time": "08:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-9]อากีลาส",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เปโตรเลร่า[(a)-14]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "ปารากวัย พรีเมียร์ ดิวิชั่น",
+        "data": [
+            {
+                "time": "06:15",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-11]General Caballero",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "12 de Octubre[(a)-12]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Bolivia Liga de Futbol Prof",
+        "data": [
+            {
+                "time": "02:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-6]กัวบิร่า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ออโรร่า[(a)-8]",
+                "odds": "0.5-1",
+                "tded": ""
+            },
+            {
+                "time": "05:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-11]Real Tomayapo",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "พัลมาฟลอร์[(a)-10]",
+                "odds": "เสมอ",
+                "tded": ""
+            },
+            {
+                "time": "07:15",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[(a)-4]นาซิอองนาล โปโตซี",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "อัลเวย์เรดดี้[(a)-3]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Ecuador Copa Pilsener A",
+        "data": [
+            {
+                "time": "07:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[(a)-8]เทคนิโค ยูนิเวอร์ซิต้าริโอ",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ยูนิเวอร์ซิดัด คาโตลิก้า[(a)-7]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "ชิลี พรีเมียร์ บี",
+        "data": [
+            {
+                "time": "04:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[9]คอนเซปซิออน",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "CSyD Barnechea[8]",
+                "odds": "0-0.5",
+                "tded": ""
+            },
+            {
+                "time": "05:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[4]แรนเจอร์ส ทัลค่า",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดปอร์เตส อิควิกกัว[13]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "06:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[5]CD Copiapo",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เดปอร์เตส ซานตาครูซ[10]",
+                "odds": "0.5",
+                "tded": ""
+            },
+            {
+                "time": "06:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[6]เปอร์โต มอนต์",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เฟอร์นันเดซ ไวเอิล[17]",
+                "odds": "0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Jordan League Division 1",
+        "data": [
+            {
+                "time": "21:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[9]อัล คาร์เมล",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เอธฮาดอัล รามธา[1]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "21:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[3]Al Hashemeya",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "El Alia[6]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "Colombia Copa Mustang B",
+        "data": [
+            {
+                "time": "06:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[(a)-12]เดปอร์ตีโบ ริโอนิโกร",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "แอตเลติโก้ ฮิวล่า[(a)-6]",
+                "odds": "0-0.5",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "ยูฟ่าแชมป์เปี้ยนลีก U19 (UEFA Youth League U19)",
+        "data": [
+            {
+                "time": "22:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "ไฮจ์ดุ๊ค สปลิท(U19)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "กาบาลา(U19)[U19L-8]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "SAFF Women Championship",
+        "data": [
+            {
+                "time": "18:45",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[102]เนปาล(W)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ศรีลังกา(W)[153]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    },
+    {
+        "league": "รายการอื่นๆที่น่าสนใจ",
+        "data": [
+            {
+                "time": "16:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[C5]กวม(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ปาเลสไตน์(U20)[C2]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "19:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[C1]ลาว(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ญี่ปุ่น(U20)[C4]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "20:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[D5]นอร์เทิร์นมาเรียนา(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ซีเรีย(U20)[D2]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "22:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[B1]ภูฏาน(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "บังคลาเทศ(U20)[B2]",
+                "odds": "1.5",
+                "tded": ""
+            },
+            {
+                "time": "22:15",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[A1]อุซเบกิสถาน(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เมียนมาร์(U20)[A4]",
+                "odds": " - ",
+                "tded": ""
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team2",
+                "team1": "[B5]เนปาล(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "กาตาร์(U20)[B4]",
+                "odds": "3.5",
+                "tded": ""
+            },
+            {
+                "time": "01:00",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[D3]จอร์แดน(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "เติร์กเมนิสถาน(U20)[D1]",
+                "odds": "1",
+                "tded": ""
+            },
+            {
+                "time": "01:30",
+                "live_time": "",
+                "main_team": "team1",
+                "team1": "[A5]มัลดีฟส์(U20)",
+                "half_time": "",
+                "full_time": "? - ?",
+                "team2": "ซาอุดีอาระเบีย(U20)[A3]",
+                "odds": " - ",
+                "tded": ""
+            }
+        ]
+    }
+]
