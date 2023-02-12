@@ -53,8 +53,8 @@ def dooball():
             name = raw_link.split('<strong>')
             if int(len(name)) != 1:
                 name = name[1].split('</strong>')[0]
-            if url != 'https://www.ballzaa.com/linkdooball.php"><span class="txtb115"> &gt;&gt; อัพเดทลิ้งคลิกที่นี่ &lt;&lt;</span></a></h3></div>':
-                if name.find('Xn--') != -1:
+            if url != 'https://www.ballzaa.com/บอลซ่าดูบอลสด\"><span class=\"txtb115\"> &gt;&gt; อัพเดทลิ้งคลิกที่นี่ &lt;&lt;</span></a></h3></div>':
+                if ('Xn--') in name != -1:
                     punycode = name.split(" ")[0]
                     names = name.split(" ")[1]
                     name = idna.decode(punycode) + ' ' + names
